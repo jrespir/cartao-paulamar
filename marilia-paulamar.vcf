@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marília Perez Domingues
+N:Domingues;Marília;Perez;;
+ORG:Paulamar Contábil
+TITLE:Contadora
+TEL;TYPE=WORK,VOICE:+551136630028
+TEL;TYPE=CELL,VOICE:+5511999344581
+EMAIL;TYPE=WORK:marilia@paulamar.com.br
+ADR;TYPE=WORK:;;Rua Maranhão, 554 - Cj. 68 - Sala 01;São Paulo;SP;01240-000;Brasil
+END:VCARD
