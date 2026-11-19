@@ -1,0 +1,24 @@
+{
+  "name": "Paulamar Contábil — Marília Perez Domingues",
+  "short_name": "Paulamar",
+  "description": "Cartão digital da Paulamar Contábil",
+  "start_url": "/cartao-paulamar/",
+  "scope": "/cartao-paulamar/",
+  "display": "standalone",
+  "background_color": "#faf7f6",
+  "theme_color": "#701733",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+PAULAMAR CONTÁBIL — Atualização de ícone Opera Android
+
+Envie TODOS os arquivos deste pacote para a raiz do repositório cartao-paulamar, substituindo index.html quando solicitado.
+O layout, CRC, QR Code e funcionalidades foram mantidos.
+Depois de publicar, aguarde a atualização do GitHub Pages; exclua o atalho antigo e crie um novo no Opera.
+Algumas versões do Opera podem continuar usando um ícone genérico independentemente dos metadados do site.
